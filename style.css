@@ -30,12 +30,6 @@ nav {
   text-align: center;
 }
 
-.image-circle {
-  border-radius: 50%;
-  border-color: #003049;
-  border-width: 2px;
-}
-
 article {
   padding: 50px 0;
 }
@@ -72,6 +66,11 @@ hr {
 
 footer p {
   text-align: center;
+}
+
+.image-circle {
+  border: 2px solid #003049;
+  border-radius: 50%;
 }
 
 a {
